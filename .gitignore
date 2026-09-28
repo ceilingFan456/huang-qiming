@@ -1,0 +1,13 @@
+# Operating system and editor files
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+
+# Local configuration, logs, and preview artifacts
+.env
+.env.*
+*.log
+.preview/
+__pycache__/
